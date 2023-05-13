@@ -1,0 +1,39 @@
+.register_form{
+    display: grid;
+    width: 300px;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    row-gap: 8px;
+    margin-top: 40px !important;
+    box-shadow: 1px 2px 3px #000;
+}
+.buttons{
+    float: right !important;
+    margin-left: auto !important;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.section{
+    margin-top: 150px;
+}
+
+.card{
+    width: 280px !important;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 1px 2px 3px  #000 !important;
+}
+input{
+    padding: 6px;
+}
+button{
+    padding: 5px;
+    border: none;
+    background-color: #009edd;
+}
+button:hover{
+    background-color: #00719e;
+}
